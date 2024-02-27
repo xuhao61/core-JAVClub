@@ -34,7 +34,7 @@
     "googleapis": "39.2.0",
     "googleapis-common": "0.7.2",
     "js-base64": "^2.5.2",
-    "knex": "^0.20.11",
+    "knex": "^3.1.0",
     "knex-paginate": "^1.2.0",
     "lodash": "^4.17.19",
     "log4js": "^6.1.2",
@@ -47,14 +47,14 @@
     "promise-queue-plus": "^1.2.2",
     "random-int": "^2.0.1",
     "randomstring": "^1.1.5",
-    "sequelize": "^6.3.3",
+    "sequelize": "^6.29.0",
     "sequelize-cli": "^6.2.0",
     "sha256": "^0.2.0"
   },
   "devDependencies": {
     "eslint": "^7.3.1",
     "eslint-plugin-markdown": "^1.0.2",
-    "pkg": "^4.4.9",
+    "pkg": "^5.8.1",
     "standard": "^14.3.4"
   }
 }
